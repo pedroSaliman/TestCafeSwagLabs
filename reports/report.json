@@ -1,0 +1,31 @@
+{
+  "startTime": "2023-01-30T14:55:57.760Z",
+  "endTime": "2023-01-30T14:56:09.289Z",
+  "userAgents": [
+    "Chrome 109.0.0.0 / Windows 10"
+  ],
+  "passed": 1,
+  "total": 1,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "Swag labs",
+      "path": "E:\\projects\\proj\\tests\\Test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "  swagLabs test",
+          "meta": {},
+          "errs": [],
+          "durationMs": 10223,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "The \"browsers\" option from the configuration file will be ignored."
+  ]
+}
