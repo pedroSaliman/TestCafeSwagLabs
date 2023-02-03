@@ -1,6 +1,6 @@
 {
-  "startTime": "2023-01-30T14:55:57.760Z",
-  "endTime": "2023-01-30T14:56:09.289Z",
+  "startTime": "2023-02-03T08:33:41.050Z",
+  "endTime": "2023-02-03T08:33:57.433Z",
   "userAgents": [
     "Chrome 109.0.0.0 / Windows 10"
   ],
@@ -14,10 +14,10 @@
       "meta": {},
       "tests": [
         {
-          "name": "  swagLabs test",
+          "name": "swagLabs test",
           "meta": {},
           "errs": [],
-          "durationMs": 10223,
+          "durationMs": 12772,
           "unstable": false,
           "screenshotPath": null,
           "skipped": false
