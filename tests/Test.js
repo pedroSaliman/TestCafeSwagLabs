@@ -13,7 +13,6 @@ test("swagLabs test",async t=>{
     Page.information(data.name,data.pass);
     Cart.clickcart(data.fname,data.lname,data.zib);
     await t.expect(Selector(".complete-header").innerText).eql("THANK YOU FOR YOUR ORDER");
-
    
 });
 

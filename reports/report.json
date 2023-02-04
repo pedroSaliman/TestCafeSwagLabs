@@ -1,23 +1,59 @@
 {
-  "startTime": "2023-02-03T08:33:41.050Z",
-  "endTime": "2023-02-03T08:33:57.433Z",
+  "startTime": "2023-02-04T12:57:30.174Z",
+  "endTime": "2023-02-04T12:57:59.494Z",
   "userAgents": [
     "Chrome 109.0.0.0 / Windows 10"
   ],
-  "passed": 1,
-  "total": 1,
+  "passed": 5,
+  "total": 5,
   "skipped": 0,
   "fixtures": [
     {
-      "name": "Swag labs",
-      "path": "E:\\projects\\proj\\tests\\Test.js",
+      "name": "Test global",
+      "path": "E:\\projects\\proj\\tests\\ecommerce.js",
       "meta": {},
       "tests": [
         {
-          "name": "swagLabs test",
+          "name": "Click a button",
           "meta": {},
           "errs": [],
-          "durationMs": 12772,
+          "durationMs": 8220,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "register case",
+          "meta": {},
+          "errs": [],
+          "durationMs": 6284,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "login case",
+          "meta": {},
+          "errs": [],
+          "durationMs": 4925,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "Edit case",
+          "meta": {},
+          "errs": [],
+          "durationMs": 2466,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "search case",
+          "meta": {},
+          "errs": [],
+          "durationMs": 6341,
           "unstable": false,
           "screenshotPath": null,
           "skipped": false
