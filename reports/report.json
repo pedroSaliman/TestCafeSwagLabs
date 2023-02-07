@@ -1,6 +1,6 @@
 {
-  "startTime": "2023-02-04T12:57:30.174Z",
-  "endTime": "2023-02-04T12:57:59.494Z",
+  "startTime": "2023-02-07T18:08:50.308Z",
+  "endTime": "2023-02-07T18:09:22.591Z",
   "userAgents": [
     "Chrome 109.0.0.0 / Windows 10"
   ],
@@ -10,23 +10,14 @@
   "fixtures": [
     {
       "name": "Test global",
-      "path": "E:\\projects\\proj\\tests\\ecommerce.js",
+      "path": "E:\\projects\\proj\\tests\\Nope.js",
       "meta": {},
       "tests": [
-        {
-          "name": "Click a button",
-          "meta": {},
-          "errs": [],
-          "durationMs": 8220,
-          "unstable": false,
-          "screenshotPath": null,
-          "skipped": false
-        },
         {
           "name": "register case",
           "meta": {},
           "errs": [],
-          "durationMs": 6284,
+          "durationMs": 6767,
           "unstable": false,
           "screenshotPath": null,
           "skipped": false
@@ -35,16 +26,7 @@
           "name": "login case",
           "meta": {},
           "errs": [],
-          "durationMs": 4925,
-          "unstable": false,
-          "screenshotPath": null,
-          "skipped": false
-        },
-        {
-          "name": "Edit case",
-          "meta": {},
-          "errs": [],
-          "durationMs": 2466,
+          "durationMs": 4014,
           "unstable": false,
           "screenshotPath": null,
           "skipped": false
@@ -53,7 +35,25 @@
           "name": "search case",
           "meta": {},
           "errs": [],
-          "durationMs": 6341,
+          "durationMs": 7047,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "wish case",
+          "meta": {},
+          "errs": [],
+          "durationMs": 3585,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "compare case",
+          "meta": {},
+          "errs": [],
+          "durationMs": 10080,
           "unstable": false,
           "screenshotPath": null,
           "skipped": false
