@@ -10,4 +10,4 @@
 -----------------------------------------------------------------------------------
 
 # how to run
-## you can run npx testcafe chrome <name of the folder> then the testname  
+## you can run npx testcafe chrome name of the folder then the testname  
